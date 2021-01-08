@@ -2,7 +2,7 @@
 
 > “I learned this, at least, by my experiment; that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.” —Henry David Thoreau
 
-![progress](https://progress-bar.dev/78/?title=days_left_to_complete_project_24)
+![progress](https://progress-bar.dev/75/?title=days_left_to_complete_project_22)
 
 [Library](./Library.md)
 
