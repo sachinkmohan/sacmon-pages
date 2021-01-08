@@ -29,3 +29,10 @@
 
 [My Deadlines --> ](https://www.sachinkmohan.com/now)
 
+
+
+## My German Resources
+Referred by Philip feix - A good shitty load of questions & answers in German --> [Gutefrage.net](https://www.gutefrage.net/)
+
+## My Web Dev Tools
+[Powr.io -> For custom countdown timer](https://www.powr.io/)
