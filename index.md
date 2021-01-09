@@ -41,9 +41,9 @@ Referred by Philip - A good shitty load of questions & answers in German --> [Gu
 [Powr.io -> For custom countdown timer](https://www.powr.io/)
 
 
-synchronise stuff
-speed and position - single(either speed or position) & combined(speed and position)
-Class diagram
-lejos interface
-playtechnicmoter implements lejos
+synchronise stuff  
+speed and position - single(either speed or position) & combined(speed and position)  
+Class diagram  
+lejos interface  
+playtechnicmoter implements lejos  
 
