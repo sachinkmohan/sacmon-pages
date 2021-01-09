@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to sacmon pages
 
 > “I learned this, at least, by my experiment; that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.” —Henry David Thoreau
+
+> “The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it, as long as you really believe 100 percent.” – Arnold Schwarzenegger
 
 ![progress](https://progress-bar.dev/75/?title=days_left_to_complete_project_22)
 
