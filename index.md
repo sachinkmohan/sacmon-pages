@@ -27,8 +27,8 @@
 + [Data Analysing](https://docs.google.com/spreadsheets/d/12WxnLtQtnPFIIHaeRpjMtQPJy4w857fcma15PrV85zU/edit#gid=664785351)
 
 ## Notes
-+ Add this month end, countdown timer on my website
 + purchase easymalayalam domain
++ check for the 
 
 
 [My Deadlines --> ](https://www.sachinkmohan.com/now)
