@@ -4,7 +4,7 @@
 
 > “The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it, as long as you really believe 100 percent.” – Arnold Schwarzenegger
 
-![progress](https://progress-bar.dev/75/?title=days_left_to_complete_project_22)
+![progress](https://progress-bar.dev/71/?title=days_left_to_complete_project_21)
 
 [Library](./Library.md)
 
