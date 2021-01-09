@@ -28,7 +28,7 @@
 
 ## Notes
 + purchase easymalayalam domain
-+ check for the 
++ Most used repositories 
 
 
 [My Deadlines --> ](https://www.sachinkmohan.com/now)
@@ -39,3 +39,11 @@ Referred by Philip - A good shitty load of questions & answers in German --> [Gu
 
 ## My Web Dev Tools
 [Powr.io -> For custom countdown timer](https://www.powr.io/)
+
+
+synchronise stuff
+speed and position - single(either speed or position) & combined(speed and position)
+Class diagram
+lejos interface
+playtechnicmoter implements lejos
+
