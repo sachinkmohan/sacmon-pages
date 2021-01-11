@@ -10,6 +10,7 @@
 
 [Lego Hiwi](./lego_hiwi.md)
 
+[Hiwi Bus](./hiwi_bus.md)
 
 [Reference-Jekyll-Page](./reference-jekyll.md)
 
