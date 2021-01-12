@@ -11,3 +11,9 @@
 ## RRLAB 
 [Notion Shared Stuff](https://www.notion.so/Shared-Stuff-83abf29333d14c04a04603f4cc46342a)  
 [SVN free book](http://svnbook.red-bean.com/)
+
+## Things needed to work
++ Bagger
++ Charger for EV3
++ N/w adapter 
++ Wire
