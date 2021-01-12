@@ -28,7 +28,7 @@
 + [Data Analysing](https://docs.google.com/spreadsheets/d/12WxnLtQtnPFIIHaeRpjMtQPJy4w857fcma15PrV85zU/edit#gid=664785351)
 
 ## Notes
-+ purchase easymalayalam domain
++ 
 + Most used repositories 
 
 
