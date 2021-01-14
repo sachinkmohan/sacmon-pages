@@ -8,9 +8,9 @@
 
 [Library](./Library.md)
 
-[Lego Hiwi](./lego_hiwi.md)
+[Lego Hiwi :tram:](./lego_hiwi.md)
 
-[Hiwi Bus](./hiwi_bus.md)
+[:busstop: :oncoming_bus:Hiwi Bus:oncoming_bus: :busstop:](./hiwi_bus.md)
 
 [My Deadlines --> ](https://www.sachinkmohan.com/now)
 
