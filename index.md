@@ -4,6 +4,8 @@
 
 > “The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it, as long as you really believe 100 percent.” – Arnold Schwarzenegger
 
+> "Your greatest dreams are all on the other side of the wall of fear and caution" - Unknown
+
 [Project Work](./project_work.md)
 
 [Library](./Library.md)
