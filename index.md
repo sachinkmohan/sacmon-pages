@@ -31,6 +31,7 @@ playtechnicmoter implements lejos
 
 [Reference-Jekyll-Page](./reference-jekyll.md)
 
-[Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+[Github emojis sheet](https://gist.github.com/rxaviers/7360908)
 
 [Reference Web pages for this site](https://github.com/nicolas-van/easy-markdown-to-github-pages)
