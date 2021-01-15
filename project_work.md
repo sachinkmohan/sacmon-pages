@@ -10,6 +10,7 @@
 + [Project Plan ML -> Notion](https://www.notion.so/Project-Plan-ML-2cf867e8ad184c1a9e1cdc716dc2d16a)
 + [Data Analysing](https://docs.google.com/spreadsheets/d/12WxnLtQtnPFIIHaeRpjMtQPJy4w857fcma15PrV85zU/edit#gid=664785351)
 + [Project_Pruning Mindmeister](https://www.mindmeister.com/1586195009?t=8wgbvnYtph)
++ [My pruning repository](https://github.com/sachinkmohan/ssd_keras)
 
 ## Notes
 + 
@@ -28,6 +29,7 @@ Prints every 25th line, starting line is 24 | `sed -n '24~25p' source_copy.log >
 
 
 ## Current Bookmarks
+
 Description | Type
 ---|---
 [Post training quantization](https://www.tensorflow.org/lite/performance/post_training_float16_quant) | blog
