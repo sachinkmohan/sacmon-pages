@@ -28,4 +28,15 @@ Prints every 25th line, starting line is 24 | `sed -n '24~25p' source_copy.log >
 
 
 ## Current Bookmarks
-[Post training quantization](https://www.tensorflow.org/lite/performance/post_training_float16_quant)
+Description | Type
+---|---
+[Post training quantization](https://www.tensorflow.org/lite/performance/post_training_float16_quant) | blog
+[TF lite course coursera](https://www.coursera.org/learn/device-based-models-tensorflow/home/welcome) | Coursera Course
+
+## Read list
+
+Topics | Theme
+---|---
+[Robotics basics](https://allshire.org/getting-started-robotics/) | Robotics-General
+[Deep Lizard Website](https://deeplizard.com/) | ML Course basics
+
