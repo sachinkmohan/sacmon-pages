@@ -8,6 +8,7 @@
 [Jannis code github](https://github.com/sachinkmohan/template_project_gradle_lab)  
 [Lego C# github](https://github.com/Vouzamo/Lego)  
 [Lego vouzamo blog](https://vouzamo.wordpress.com/2020/04/06/c-sdk-for-lego-bluetooth-le-hubs/)  
+[Coggle Lego Bagger Thought Mindmap](https://coggle.it/diagram/YAXxbHPzAT7cpPYv/t/-/699b761f356f95cc1672fc76965901c473bebd91e105173a83b7740b3114b0d7)  
 My eclipse workspace -> /Lego-Hiwi/eclipse-workspace-lego
 
 ## RRLAB 
