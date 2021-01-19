@@ -28,7 +28,8 @@ lejos interface
 playtechnicmoter implements lejos  
 
 
-
+## Fun
+[Deutsch](./german.md)
 
 
 [Reference-Jekyll-Page](./reference-jekyll.md)
