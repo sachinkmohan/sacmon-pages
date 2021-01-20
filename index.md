@@ -30,7 +30,7 @@ playtechnicmoter implements lejos
 
 
 ## Fun
-[Deutsch](./german.md)
+[Deutsch](./german.md)  
 [Fun with Vim](http://www.vimgenius.com/)
 
 
