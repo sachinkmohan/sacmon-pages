@@ -6,6 +6,8 @@
 
 > "Your greatest dreams are all on the other side of the wall of fear and caution" - Unknown
 
+:smile:
+
 [Project Work](./project_work.md)
 
 [Library](./Library.md)
