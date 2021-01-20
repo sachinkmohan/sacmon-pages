@@ -6,13 +6,12 @@
 
 > "Your greatest dreams are all on the other side of the wall of fear and caution" - Unknown
 
-:smile:
 
 [Project Work](./project_work.md)
 
 [Library](./Library.md)
 
-[Lego Hiwi](./lego_hiwi.md)
+[Lego Hiwi](./lego_hiwi.md):tractor:
 
 [Hiwi Bus](./hiwi_bus.md)
 
