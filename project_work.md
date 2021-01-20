@@ -12,6 +12,9 @@
 + [Project_Pruning Mindmeister](https://www.mindmeister.com/1586195009?t=8wgbvnYtph)
 + [My pruning repository](https://github.com/sachinkmohan/ssd_keras)
 
+## Issues
++ [Quantization Issue](https://github.com/tensorflow/model-optimization/issues/620)
+
 ## Notes
 + 
 + Most used repositories 
