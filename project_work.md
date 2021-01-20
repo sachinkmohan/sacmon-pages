@@ -39,6 +39,7 @@ Description | Type
 
 Topics | Theme
 ---|---
+[Deep Lizard - Layers](https://deeplizard.com/learn/video/FK77zZxaBoI) | Currently reading
 [Robotics basics](https://allshire.org/getting-started-robotics/) | Robotics-General
 [Deep Lizard Website](https://deeplizard.com/) | ML Course basics
 
