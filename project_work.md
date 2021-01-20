@@ -45,4 +45,5 @@ Topics | Theme
 [Deep Lizard - Layers](https://deeplizard.com/learn/video/FK77zZxaBoI) | Currently reading
 [Robotics basics](https://allshire.org/getting-started-robotics/) | Robotics-General
 [Deep Lizard Website](https://deeplizard.com/) | ML Course basics
+[642% CPU used along with GPU](https://stackoverflow.com/questions/65707430/642-cpu-used-along-with-gpu-during-training-is-it-normal) | CPU utilization
 
