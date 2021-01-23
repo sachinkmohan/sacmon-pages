@@ -21,5 +21,9 @@ My eclipse workspace -> /Lego-Hiwi/eclipse-workspace-lego
 + N/w adapter 
 + Wire
 
+## Practice some Java skills
+
++ [Codegym](https://codegym.cc/)
+
 
 
