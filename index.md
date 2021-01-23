@@ -31,7 +31,8 @@ playtechnicmoter implements lejos
 
 ## Fun
 [Deutsch](./german.md)  
-[Fun with Vim](http://www.vimgenius.com/)
+[Fun with Vim](http://www.vimgenius.com/)  
+[Interesting](./interesting.md)
 
 
 [Reference-Jekyll-Page](./reference-jekyll.md)
