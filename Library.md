@@ -1,12 +1,14 @@
 ## Library files here bro
 
 
-Learning resources | blah
+**Learning resources** | blah
 |---|---|
 [Open University - learn new things for free](https://www.open.edu/openlearn/) | Random learning
 
 
-Read Later | blah
+
+
+**Read Later** | blah
 |---|---|
 Teach tech with [cartoons](https://jvns.ca/teach-tech-with-cartoons/) | Idea to be used for EM
 
