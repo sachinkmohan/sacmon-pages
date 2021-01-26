@@ -30,10 +30,10 @@ playtechnicmoter implements lejos
 
 
 ## Fun
-[Deutsch](./german.md)  
-[Fun with Vim](http://www.vimgenius.com/)  
-[Interesting](./interesting.md)
-[Eff-You-Enn](https://www.notion.so/Eff-You-Enn-150ddebe716d49f984f2956529b69a91)
++ [Deutsch](./german.md)  
++ [Fun with Vim](http://www.vimgenius.com/)  
++ [Interesting](./interesting.md)
++ [Eff-You-Enn](https://www.notion.so/Eff-You-Enn-150ddebe716d49f984f2956529b69a91)
 
 
 ## General Tools I use
