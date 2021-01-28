@@ -19,6 +19,8 @@
 + 
 + Most used repositories 
 
+## :bulb: Bookmarks :bulb:
+- [Link](https://www.notion.so/09063076eb084708a0900084dac96f61?v=60946ada361543868c8c0dd13370d783)
 
 ## Terminal Commands
 
