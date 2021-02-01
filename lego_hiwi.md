@@ -9,6 +9,8 @@
 [Lego C# github](https://github.com/Vouzamo/Lego)  
 [Lego vouzamo blog](https://vouzamo.wordpress.com/2020/04/06/c-sdk-for-lego-bluetooth-le-hubs/)  
 [Coggle Lego Bagger Thought Mindmap](https://coggle.it/diagram/YAXxbHPzAT7cpPYv/t/-/699b761f356f95cc1672fc76965901c473bebd91e105173a83b7740b3114b0d7)  
+
+[Mercurial Guide](https://book.mercurial-scm.org/read/files.html#:~:text=Once%20you%20decide%20that%20a,status%20with%20a%20%E2%80%9C%20R%20%E2%80%9D.)
 My eclipse workspace -> /Lego-Hiwi/eclipse-workspace-lego
 
 ## RRLAB 
