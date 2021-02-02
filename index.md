@@ -6,6 +6,8 @@
 
 > "Your greatest dreams are all on the other side of the wall of fear and caution" - Unknown
 
+> “If you really believe in what you're doing, work hard, take nothing personally and if something blocks one route, find another. Never give up.” - Laurie Notaro
+
 
 [Project Work](./project_work.md)
 
