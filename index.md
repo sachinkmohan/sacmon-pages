@@ -37,7 +37,8 @@ playtechnicmoter implements lejos
 + [Interesting](./interesting.md)
 + [Eff-You-Enn](https://www.notion.so/Eff-You-Enn-150ddebe716d49f984f2956529b69a91)
 
-
+## Knowledge Time
++ [Robotics/AI](https://coggle.it/diagram/YBqECdpUTh4g2_zk/t/-)
 ## General Tools I use
 + [Desktop screen sharing app](http://deskreen.com/)
 
