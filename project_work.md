@@ -31,6 +31,7 @@ Nvidia-smi to log every 500ms | `nvidia-smi -lms 500`
 Open in No Browser mode | `jupyter notebook --no-browser --port=8889`
 Tunnelling | `ssh -NfL localhost:8888:localhost:8889 user@server_name`
 Prints every 25th line, starting line is 24 | `sed -n '24~25p' source_copy.log > source_copy_new.log`
+Adding load to the CPU on all 8 cores | `nproc | xargs seq | xargs -n1 -P8 md5sum /dev/zero`
 
 
 ## Current Bookmarks
