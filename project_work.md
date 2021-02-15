@@ -50,3 +50,9 @@ Topics | Theme
 [Deep Lizard Website](https://deeplizard.com/) | ML Course basics
 [642% CPU used along with GPU](https://stackoverflow.com/questions/65707430/642-cpu-used-along-with-gpu-during-training-is-it-normal) | CPU utilization
 
+## Watch List
+
+Topics | Theme
+---|---
+[Inside TensorFlow: Summaries and TensorBoard](https://www.youtube.com/watch?v=OI4cskHUslQ&t=2134s) | Tensorboard
+
