@@ -11,6 +11,7 @@
 + [Data Analysing](https://docs.google.com/spreadsheets/d/12WxnLtQtnPFIIHaeRpjMtQPJy4w857fcma15PrV85zU/edit#gid=664785351)
 + [Project_Pruning Mindmeister](https://www.mindmeister.com/1586195009?t=8wgbvnYtph)
 + [My pruning repository](https://github.com/sachinkmohan/ssd_keras)
++ [Coggle Project Exhaustive task list](https://coggle.it/diagram/YCuv81R6dWDFjAA9/t/things-to-be-done-calendar)
 
 ## Issues
 + [Quantization Issue](https://github.com/tensorflow/model-optimization/issues/620)
