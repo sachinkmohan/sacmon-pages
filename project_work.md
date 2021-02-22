@@ -35,6 +35,8 @@ Prints every 25th line, starting line is 24, for ram | `sed -n '24~25p' source_c
 Prints every 25th line, starting line is 15, for time | `sed -n '24~25p' source_copy.log > source_copy_new.log`
 cut 62,63,64 characters for extracting ram | cut -c 62,63,64 filename
 Adding load to the CPU on all 8 cores | `nproc | xargs seq | xargs -n1 -P8 md5sum /dev/zero`
+Install stress on linux | `sudo apt-get install stress`
+Add stress to the cpu | `stress --cpu 8`
 
 
 ## Current Bookmarks
