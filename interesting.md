@@ -9,3 +9,8 @@ Habit development [Kyle Will blog](https://kylewill.blog/hacking-habit-developme
 ### ACM
 - [ACM Home Page](https://www.acm.org/)
 - [ACM Digital Library](https://dl.acm.org/)
+
+
+Table Desc. | Some awesome courses
+|---|---|
+[https://classroom.udacity.com/courses/ud810](Intro to Computer vision) | Udacity Course
