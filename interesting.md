@@ -13,4 +13,4 @@ Habit development [Kyle Will blog](https://kylewill.blog/hacking-habit-developme
 
 Table Desc. | Some awesome courses
 |---|---|
-[https://classroom.udacity.com/courses/ud810](Intro to Computer vision) | Udacity Course
+[Intro to Computer vision](https://classroom.udacity.com/courses/ud810) | Udacity Course
