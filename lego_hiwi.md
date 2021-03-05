@@ -14,7 +14,7 @@
 
 ## Open CV Related
 
-- [Notion OpenCV](https://www.notion.so/EV3DEV-OpenCV-2620344c6ec141da919eafb45ff9d38c)
+- [Notion OpenCV](https://www.notion.so/EV3DEV-OpenCV-2620344c6ec141da919eafb45ff9d38c) :dark_sunglasses:
 
 ## RRLAB 
 + [Notion Shared Stuff](https://www.notion.so/Shared-Stuff-83abf29333d14c04a04603f4cc46342a)  
