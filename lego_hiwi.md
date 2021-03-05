@@ -12,6 +12,10 @@
 
 + My eclipse workspace -> /Lego-Hiwi/eclipse-workspace-lego
 
+## Open CV Related
+
+- [Notion OpenCV](https://www.notion.so/EV3DEV-OpenCV-2620344c6ec141da919eafb45ff9d38c)
+
 ## RRLAB 
 + [Notion Shared Stuff](https://www.notion.so/Shared-Stuff-83abf29333d14c04a04603f4cc46342a)  
 + [Mercurial Guide](https://book.mercurial-scm.org/read/files.html#:~:text=Once%20you%20decide%20that%20a,status%20with%20a%20%E2%80%9C%20R%20%E2%80%9D.)
