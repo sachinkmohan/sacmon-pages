@@ -4,7 +4,7 @@
 **Learning resources** | blah
 |---|---|
 [Open University - learn new things for free](https://www.open.edu/openlearn/) | Random learning
-
+[Intro to Computer Vision - George Tech](https://www.udacity.com/courses/all?search=computer%20vision) | Awesome free Computer vision course Udacity :motorcycle:
 
 
 
