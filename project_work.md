@@ -13,6 +13,9 @@
 + [My pruning repository](https://github.com/sachinkmohan/ssd_keras)
 + [Coggle Project Exhaustive task list](https://coggle.it/diagram/YCuv81R6dWDFjAA9/t/things-to-be-done-calendar)
 
+## Report Writing 📗
++ [HOw to write a thesis](https://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html)
+
 ## Issues
 + [Quantization Issue](https://github.com/tensorflow/model-optimization/issues/620)
 
