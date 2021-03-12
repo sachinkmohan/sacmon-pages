@@ -15,6 +15,7 @@
 
 ## Report Writing 📗
 + [HOw to write a thesis](https://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html)
++ [Notion - Report Writing](https://www.notion.so/Phase-7-Report-Writing-d12ffbbe8ac64c20be1f27ce97d50d14)
 
 ## Issues
 + [Quantization Issue](https://github.com/tensorflow/model-optimization/issues/620)
