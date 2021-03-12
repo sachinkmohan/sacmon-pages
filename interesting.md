@@ -14,3 +14,4 @@ Habit development [Kyle Will blog](https://kylewill.blog/hacking-habit-developme
 Table Desc. | Some awesome courses
 |---|---|
 [Intro to Computer vision](https://classroom.udacity.com/courses/ud810) | Udacity Course
+[How to learn a language - Awesome Course](https://www.open.edu/openlearn/languages/how-learn-language/content-section-overview?active-tab=description-tab) | Open.edu
