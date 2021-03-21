@@ -11,6 +11,7 @@
 - [Coggle Lego Bagger Thought Mindmap](https://coggle.it/diagram/YAXxbHPzAT7cpPYv/t/-/699b761f356f95cc1672fc76965901c473bebd91e105173a83b7740b3114b0d7)  
 
 + My eclipse workspace -> /Lego-Hiwi/eclipse-workspace-lego
++ My laptop workspace -> /_oxy
 
 ## Open CV Related
 
