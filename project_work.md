@@ -1,6 +1,6 @@
 # Proj Work
 
-![progress](https://progress-bar.dev/71/?title=days_left_to_complete_project_21)
+![progress](https://progress-bar.dev/95/?title=days_left_to_complete_project_21)
 
 ## My project coggles
 + [Coggle Project Exhaustive task list](https://coggle.it/diagram/YCuv81R6dWDFjAA9/t/things-to-be-done-calendar)
