@@ -2,16 +2,15 @@
 
 ![progress](https://progress-bar.dev/71/?title=days_left_to_complete_project_21)
 
-## Project work so far
-- [x] Evaluated college data - Bad results.
-- [ ] probably proceeding with RAM consumption reduction
+## My project coggles
++ [Coggle Project Exhaustive task list](https://coggle.it/diagram/YCuv81R6dWDFjAA9/t/things-to-be-done-calendar)
++ [Deep Learning concepts](https://coggle.it/diagram/YEuTbdWHwnI3OC6C/t/deep-learning-concepts)
 
 ## Project Work Tools
 + [Project Plan ML -> Notion](https://www.notion.so/Project-Plan-ML-2cf867e8ad184c1a9e1cdc716dc2d16a)
 + [Data Analysing](https://docs.google.com/spreadsheets/d/12WxnLtQtnPFIIHaeRpjMtQPJy4w857fcma15PrV85zU/edit#gid=664785351)
 + [Project_Pruning Mindmeister](https://www.mindmeister.com/1586195009?t=8wgbvnYtph)
 + [My pruning repository](https://github.com/sachinkmohan/ssd_keras)
-+ [Coggle Project Exhaustive task list](https://coggle.it/diagram/YCuv81R6dWDFjAA9/t/things-to-be-done-calendar)
 
 ## Report Writing 📗
 + [HOw to write a thesis](https://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html)
